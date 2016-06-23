@@ -14,10 +14,11 @@ body {
 
 .grid-item-link{ 
   text-decoration:none;
-  color:black
+  color:black;
 }
 .grid-box {
-  height: 200px;
+  margin-top:20px;
+  height: 100px;
 }
 
 .row::after {
