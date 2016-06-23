@@ -5,9 +5,11 @@ machine:
 dependencies:
 
   override:
-    - stack init
-
+    - cabal update
+    - cabal sandbox init
+    - cabal install --only-dependencies -j
+    - cabal configure
 test:
 
   override:
-    - stack build
+    - cabal build
