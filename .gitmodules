@@ -1,0 +1,4 @@
+[submodule "_site"]
+	path = _site
+	url = git@github.com:massudaw/temperemais
+	branch = gh-pages

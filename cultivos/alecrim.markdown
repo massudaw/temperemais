@@ -7,7 +7,17 @@ author: Carla Minami
 
 # Cuidados de Cultivo:
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted.
+O alecrim é uma planta que gosta de luz e de um clima seco.
+
+ - Evite colocar em locais escuros
+ - Precisa de pouca água
+ - Regas escassas sem encharcamento
+
 
 # Temperatura Ideal: 
+
+Nunca manter o alecrim abaixo dos 6°C. 
+
+# Solo
+
+O Alecrim tem seu sabor mais apurado quando plantado em solo pouco fértil. Não suporta solos encharcados, tendo boa resistência a periodos de estiagem.

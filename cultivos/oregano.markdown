@@ -11,3 +11,4 @@ I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would n
 like to be contacted.
 
 # Temperatura Ideal: 
+Não sobrevive abaixo de 5ºC
