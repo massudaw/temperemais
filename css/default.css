@@ -64,12 +64,22 @@ div#header #navigation {
     text-align: right;
 }
 
+.navigation {
+    color: white;
+    font-weight: bold;
+    padding:6px;
+    background-color: black;
+    border-radius:10px;
+}
 div#header #navigation a {
-    color: black;
+    color: white;
     font-size: 18px;
     font-weight: bold;
-    margin-left: 12px;
+    margin-left: 6px;
+    padding:6px;
     text-decoration: none;
+    background-color: black;
+    border-radius:10px;
 }
 
 div#footer {
