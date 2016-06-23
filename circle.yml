@@ -1,0 +1,13 @@
+machine:
+  ghc:
+    version: 7.10.1
+
+dependencies:
+
+  override:
+    - stack init
+
+test:
+
+  override:
+    - stack build

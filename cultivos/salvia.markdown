@@ -1,5 +1,5 @@
 ---
-header: Salvia 
+header: Sálvia 
 published: 2016-06-21
 author: Carla Minami
 ---
