@@ -5,10 +5,13 @@ author: Wesley Sales Massuda
 ---
 
 
-# Cuidados de Cultivo:
+## Cuidados de Cultivo:
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted.
 
-# Temperatura Ideal: 
-Não sobrevive abaixo de 5ºC
+Devem estar num local protegido e ensolarado.  Esta planta não gosta de muita água, ou seja só deve ser regado quando o solo estiver muito seco.
+
+Temperatura aconselhável para esta planta:
+
+## Temperatura Ideal: 
+Os orégãos requerem temperaturas acima dos 5°C.
+

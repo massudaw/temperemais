@@ -7,17 +7,17 @@ author: Carla Minami
 
 ## Cuidados de Cultivo:
 
-O alecrim é uma planta que gosta de luz e de um clima seco.
 
- - Evite colocar em locais escuros
- - Precisa de pouca água
- - Regas escassas sem encharcamento
+A Sálvia prefere locais amenos e ensolarados, no entanto é bastante resistente ao frio e até a geadas. Produz folhas todo o ano.
 
+Tolera a secura, apenas necessita de regas controladas (quando o seu composto estiver bastante seco), sendo que não precisa de muita água. O excesso de água no solo faz com suas raízes tendem a apodrecer rapidamente, levando à morte súbita da planta. 
 
-## Temperatura Ideal: 
+O seu cultivo na horta, juntamente com outras espécies, repele uma série de pragas, entre as quais a borboleta-branca da couve.
 
-Nunca manter o alecrim abaixo dos 6°C. 
+Necessita de ser podada periodicamente de forma a prevenir o envelhecimento precoce e estimular novos rebentos. 
 
-## Solo
+As folhas devem ser colhidas logo no início da floração da planta, devendo-se fazê-lo nos horários mais frescos do dia.
 
-O Alecrim tem seu sabor mais apurado quando plantado em solo pouco fértil, não suporta solos encharcados e tem boa resistência a periodos de estiagem.
+## Temperatura aconselhável para esta planta:
+
+Suporta temperaturas entre os 3°C e os 23°C. 

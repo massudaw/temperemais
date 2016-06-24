@@ -69,6 +69,7 @@ ul#sublogo li {
     font:bold;
 }
 
+
 div#logo a {
     color: #4FD4C7;
     font-size: 65px;
@@ -112,11 +113,14 @@ div#footer {
 }
 
 h1 {
-    font-size: 24px;
+	font-family:amatic sc,cursive;
+    font-size: 35px;
 }
 
 h2 {
-    font-size: 20px;
+	font-family:amatic sc,cursive;
+    font-size: 27px;
+    font-weight:normal;
 }
 
 div.info {

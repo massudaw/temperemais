@@ -5,19 +5,15 @@ author: Carla Minami
 ---
 
 
-## Cuidados de Cultivo:
+# Cuidados de Cultivo:
 
-O alecrim é uma planta que gosta de luz e de um clima seco.
+O endro é uma planta que não tolera temperaturas extremas, ou seja, nem muito quentes nem muito frias.
 
- - Evite colocar em locais escuros
- - Precisa de pouca água
- - Regas escassas sem encharcamento
+Deve colocar sempre o endro num local com luminosidade ou à meia sombra. 
 
+O plantio em vaso, e em local coberto requer rega abundante, sendo que esta erva aromática necessita de bastante irrigação.
+A colheita pode ser feita durante todo o ano. 
 
-## Temperatura Ideal: 
+# Temperatura aconselhável para esta planta:
 
-Nunca manter o alecrim abaixo dos 6°C. 
-
-## Solo
-
-O Alecrim tem seu sabor mais apurado quando plantado em solo pouco fértil, não suporta solos encharcados e tem boa resistência a periodos de estiagem.
+Temperaturas entre os 8°C e os 22°C. 

@@ -7,17 +7,11 @@ author: Carla Minami
 
 ## Cuidados de Cultivo:
 
-O alecrim é uma planta que gosta de luz e de um clima seco.
 
- - Evite colocar em locais escuros
- - Precisa de pouca água
- - Regas escassas sem encharcamento
+O hortelã ou também chamada de menta, cresce melhor em condições húmidas. Deve regar constantemente,  mas também é muito importante que as raízes não fiquem alagadas, dado que podem apodrecer. As folhas pretas ou amarelas que aparecem na base da planta são naturais.
+Conforme o seu crescimento, remova as folhas mais altas e talos, para que a luz chegue às outras folhas em crescimento. De um corte nascem várias ramificações.
+ 
+## Temperatura aconselhável para esta Planta:
 
-
-## Temperatura Ideal: 
-
-Nunca manter o alecrim abaixo dos 6°C. 
-
-## Solo
-
-O Alecrim tem seu sabor mais apurado quando plantado em solo pouco fértil, não suporta solos encharcados e tem boa resistência a periodos de estiagem.
+ É recomendável manter a temperatura acima dos 10°C.
+ É uma planta resistente a altas e a baixas temperaturas, mas não tolera geadas, sendo a sua temperatura mínima de 5 graus de modo a garantir a sua vitalidade.

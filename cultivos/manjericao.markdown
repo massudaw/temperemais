@@ -7,17 +7,15 @@ author: Carla Minami
 
 ## Cuidados de Cultivo:
 
-O alecrim é uma planta que gosta de luz e de um clima seco.
+O manjericão gosta de estar numa posição em que receba muita luz, sem no entanto receber a luz solar diretamente, pois a incidência forte pode provocar queimaduras e até a morte da planta.
+ 
+ Como planta de interior ou exterior, não tolera frio muito intenso.
 
- - Evite colocar em locais escuros
- - Precisa de pouca água
- - Regas escassas sem encharcamento
+ Para transplantar o manjericão em um vaso com boa drenagem para que as raízes respirem e não haja acumulação de fungos.
+ Não é aconselhavel que a planta permaneça no tempo na humidade noturna, podendo ser vítima de fungos e acabar apodrecendo.
 
+ É um excelente repelente de insetos.  
 
-## Temperatura Ideal: 
+## Temperatura aconselhável para esta planta:
 
-Nunca manter o alecrim abaixo dos 6°C. 
-
-## Solo
-
-O Alecrim tem seu sabor mais apurado quando plantado em solo pouco fértil, não suporta solos encharcados e tem boa resistência a periodos de estiagem.
+ O manjericão não suporta temperaturas inferiores a 12°C.

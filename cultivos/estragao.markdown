@@ -7,17 +7,14 @@ author: Carla Minami
 
 ## Cuidados de Cultivo:
 
-O alecrim é uma planta que gosta de luz e de um clima seco.
 
- - Evite colocar em locais escuros
- - Precisa de pouca água
- - Regas escassas sem encharcamento
+Necessita de um local com boa luminosidade, mas deve ser protegido do frio (não suporta geadas) e do calor excessivo.
 
+Gosta do solo húmido, deve regá-lo quando a terra estiver seca, sem encharcar, de preferência no início da manhã ou no final da tarde.
 
-## Temperatura Ideal: 
+Dá-se todo o ano.
+O estragão é considerado uma planta “companheira”, pois o seu aroma mantém afastadas muitas pragas de jardim.
 
-Nunca manter o alecrim abaixo dos 6°C. 
+## Temperatura aconselhável para esta Planta:
 
-## Solo
-
-O Alecrim tem seu sabor mais apurado quando plantado em solo pouco fértil, não suporta solos encharcados e tem boa resistência a periodos de estiagem.
+Entre 7°C e os 23°C. 

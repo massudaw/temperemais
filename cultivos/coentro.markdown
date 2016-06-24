@@ -7,17 +7,14 @@ author: Carla Minami
 
 ## Cuidados de Cultivo:
 
-O alecrim é uma planta que gosta de luz e de um clima seco.
+O Coentro é uma erva aromática sensível, e por isso requer mais cuidados.
+Deve-se regá-la com pouca água mas várias vezes, sempre que a superfície do composto de terra estiver seca.
+ 
+##Temperatura aconselhável para a planta:
 
- - Evite colocar em locais escuros
- - Precisa de pouca água
- - Regas escassas sem encharcamento
+Coloque-a num lugar quente. Precisa de luz e não aguenta o vento pois seca e morre.
+O seu crescimento é lento.
 
 
-## Temperatura Ideal: 
 
-Nunca manter o alecrim abaixo dos 6°C. 
 
-## Solo
-
-O Alecrim tem seu sabor mais apurado quando plantado em solo pouco fértil, não suporta solos encharcados e tem boa resistência a periodos de estiagem.

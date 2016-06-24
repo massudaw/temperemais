@@ -1,23 +1,18 @@
 ---
 header: Salsa 
 published: 2016-06-21
-author: Carla Minami
 ---
 
 
-## Cuidados de Cultivo:
-
-O alecrim é uma planta que gosta de luz e de um clima seco.
-
- - Evite colocar em locais escuros
- - Precisa de pouca água
- - Regas escassas sem encharcamento
+# Cuidados de Cultivo:
 
 
-## Temperatura Ideal: 
+O cultivo da salsinha faz-se há mais de trezentos anos, sendo uma das plantas aromáticas mais populares da gastronomia mundial. Esta subsiste tanto no Verão como no Inverno (desde que resguardada do frio).
 
-Nunca manter o alecrim abaixo dos 6°C. 
+A salsinha gosta de uma irrigação razoável, veja sempre se o composto está húmido. Preste atenção para não regar demasiado de modo a não se criarem fungos. Por isso é conveniente uma rega com frequência mas em poucas quantidades.
 
-## Solo
+ A salsinha pode ser suscetível a pragas, colocar o cebolinho ao lado desta pode ajudar na prevenção das mesmas. Gosta da companhia do espargo e do tomate.
 
-O Alecrim tem seu sabor mais apurado quando plantado em solo pouco fértil, não suporta solos encharcados e tem boa resistência a periodos de estiagem.
+# Temperatura aconselhável para esta planta:
+
+ A salsinha é uma planta que suporta bem as flutuações de temperatura.
