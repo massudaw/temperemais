@@ -1,7 +1,6 @@
 ---
 header: Manjerona 
 published: 2016-06-21
-author: Carla Minami
 ---
 
 

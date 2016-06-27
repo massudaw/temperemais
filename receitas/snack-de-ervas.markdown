@@ -1,7 +1,6 @@
 ---
 header: Snack de Ervas 
 published: 2016-06-21
-author: Carla Minami
 ---
 
 
