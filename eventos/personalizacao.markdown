@@ -1,6 +1,9 @@
 ---
 header: Personalização de Cachepôs 
 published: 2016-06-21
+start_date: 2016-07-10
+horario: 17:00 às 18:00
+local: Goiânia Shopping
 ---
 
 

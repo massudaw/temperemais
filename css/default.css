@@ -5,6 +5,11 @@ body {
     width: 600px;
 }
 
+ul {
+  padding:0px;
+  list-style-type:none;
+  margin 0px;
+}
 .grid-item {
 }
 
@@ -92,8 +97,20 @@ div#header #navigation {
     background-color: black;
     border-radius:10px;
 }
+div#header #badges a {
+  float:left;
+}
+div#header #navbar {
+  height:28px;
+}
+
+.badge {
+  height:35px;
+
+}
 div#header #navigation a {
     color: white;
+    float:right;
     font-size: 18px;
     font-weight: bold;
     margin-left: 3px;
@@ -128,3 +145,5 @@ div.info {
     font-size: 14px;
     font-style: italic;
 }
+
+
