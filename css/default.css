@@ -97,11 +97,12 @@ div#header #navigation {
     background-color: black;
     border-radius:10px;
 }
+
 div#header #badges a {
   float:left;
 }
 div#header #navbar {
-  height:28px;
+  height:33px;
 }
 
 .badge {
