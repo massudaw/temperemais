@@ -1,6 +1,7 @@
 ---
-header: Triângulo 
+header: Vaso Triângulo 
 published: 2016-06-21
+disponivel: 10 
 ---
 
 

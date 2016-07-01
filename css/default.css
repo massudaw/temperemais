@@ -10,7 +10,28 @@ ul {
   list-style-type:none;
   margin 0px;
 }
+.indisponivel {
+  z-index:-2;
+	background: 
+  /* On "top" */
+  repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    #ccc 10px,
+    #ccc 20px
+  );
+  /* on "bottom" */
+}
 .grid-item {
+  height:120px;
+}
+.indisponivel:hover a:after {
+  content: ' ' attr(bg-data-content) ' Indisponível ';
+  font-size: small ;
+  z-index:-1;
+  color: red;
+  text-align:center;
 }
 
 * { 
@@ -47,8 +68,8 @@ ul {
 }
 [class*="col-"] {
     float:left;
-    padding: 15px;
-    border: 2px solid #4FD4C7;
+    padding: 7px;
+     border: 2px solid #efefef;
 }
 
 div#header {
@@ -58,10 +79,10 @@ div#header {
 }
 
 ul#sublogo {
-    margin-left:20px;
-    margin-right:20px;
-    padding-left:20px;
-    padding-right:20px;
+    margin-left:10px;
+    margin-right:10px;
+    padding-left:10px;
+    padding-right:10px;
   }
 
 ul#sublogo li {
@@ -90,11 +111,12 @@ div#header #navigation {
 }
 
 .navigation {
-    color: white;
-    font-weight: bold;
+    color: black;
+    font-weight: normal;
     padding:6px;
     padding-left:20px;
-    background-color: black;
+    border-color : #4FD4C7;
+    border-style:solid;
     border-radius:10px;
 }
 
@@ -110,15 +132,20 @@ div#header #navbar {
 
 }
 div#header #navigation a {
-    color: white;
+    color: black;
     float:right;
-    font-size: 18px;
-    font-weight: bold;
+    font-size: 17px;
+    font-family: Tahoma;
+    font-weight: normal;
     margin-left: 3px;
     padding:6px;
     text-decoration: none;
-    background-color: black;
+    background-color:#4FD4C7;
     border-radius:10px;
+}
+
+.icon {
+  padding:5px;
 }
 
 div#footer {
@@ -131,12 +158,12 @@ div#footer {
 }
 
 h1 {
-	font-family:amatic sc,cursive;
+	/*font-family:amatic sc,cursive;*/
     font-size: 35px;
 }
 
 h2 {
-	font-family:amatic sc,cursive;
+	/*font-family:amatic sc,cursive;*/
     font-size: 27px;
     font-weight:normal;
 }

@@ -129,9 +129,11 @@ main = hakyll $ do
     match "index.html" $ do
         route idRoute
         compile $ do
-            posts <- loadAll "cultivos/*"
+            produtos <- loadAll "produtos/*"
+            cultivos <- loadAll "cultivos/*"
             let indexCtx =
-                    listField "cultivos" postCtx (return posts) `mappend`
+                    listField "produtos" postCtx (return produtos) `mappend`
+                    listField "cultivos" postCtx (return cultivos) `mappend`
                     constField "header" "Home"                `mappend`
                     defaultContext
 
