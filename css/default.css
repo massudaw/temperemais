@@ -5,11 +5,15 @@ body {
     width: 600px;
 }
 
-.event-description ul {
+ul.event-description {
   padding:0px;
   list-style-type:none;
   margin 0px;
 }
+div.event-description{
+  height: 190px
+}
+
 .indisponivel {
   z-index:-2;
 	background: 
@@ -26,6 +30,7 @@ body {
 .grid-item {
   height:120px;
 }
+
 .indisponivel:hover a:after {
   content: ' ' attr(bg-data-content) ' Indisponível ';
   font-size: small ;
