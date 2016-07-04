@@ -1,23 +1,20 @@
 ---
 header: Bálsamo 
+especie: Cotyledon orbiculata
 published: 2016-06-21
 disponivel: 1
 ---
 
 
 ## Cuidados de Cultivo:
+Deve ser cultivado sob sol pleno ou meia-sombra, em solo fértil, preferencialmente arenoso, bem drenável, enriquecido com matéria orgânica e irrigado semanalmente 
+na primavera e verão, sendo no inverno irrigado apenas uma vez a cada mês.
+Adapta-se a qualquer clima, mas prefere clima seco e quente.
 
-
-A Sálvia prefere locais amenos e ensolarados, no entanto é bastante resistente ao frio e até a geadas. Produz folhas todo o ano.
-
-Tolera a secura, apenas necessita de regas controladas (quando o seu composto estiver bastante seco), sendo que não precisa de muita água. O excesso de água no solo faz com suas raízes tendem a apodrecer rapidamente, levando à morte súbita da planta. 
-
-O seu cultivo na horta, juntamente com outras espécies, repele uma série de pragas, entre as quais a borboleta-branca da couve.
-
-Necessita de ser podada periodicamente de forma a prevenir o envelhecimento precoce e estimular novos rebentos. 
-
-As folhas devem ser colhidas logo no início da floração da planta, devendo-se fazê-lo nos horários mais frescos do dia.
+Além das propriedades terapêuticas, geralmente usada para problemas digestivos, cicatrizantes e emolientes, sendo os seus princípios ativos os ácidos benzoicos
+ e cinâmico, sua indicação terapêutica são para as inflamações gastrointestinais e de pele, úlcera, erisipela, afecções do aparelho respiratório e urinário,
+ diabetes, bronquite crônica, queimaduras e frieiras. O Bálsamo também é muito conhecido por ser uma planta ornamental. 
 
 ## Temperatura aconselhável para esta planta:
 
-Suporta temperaturas entre os 3°C e os 23°C. 
+Suporta temperaturas acima dos 20°C. 
