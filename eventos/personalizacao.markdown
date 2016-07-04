@@ -5,6 +5,7 @@ start_date: -
 local: -
 horario: - 
 disponivel: 10
+image_format: jpg
 ---
 
 # Em Breve
