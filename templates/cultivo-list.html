@@ -1,9 +1,11 @@
 <div class="row grid-box" >
     $for(cultivos)$
         <div class="col-3 grid-item $if(disponivel)$  disponivel  $else$ indisponivel $endif$" >
-            <a bg-data-content=Cultivo class=grid-item-link href="$url$">$header$
-            
+            <a bg-data-content=Cultivo class=grid-item-link href="$url$">
         <img src="/images/$title$.png" style="height:auto; max-height:70px;  width:100px ;border: solid #efefef 1px;" />
+$header$
+<br/>
+            
             </a>
 
 
