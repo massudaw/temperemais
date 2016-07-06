@@ -1,5 +1,6 @@
 ---
 header: Alecrim 
+especie: Rosmarinus officinalis
 published: 2016-06-21
 disponivel: 10
 ---
@@ -23,9 +24,9 @@ Nunca manter o alecrim abaixo dos 6°C.
 
 ###Uso: 
 
-De sabor forte, aroma acentuado, que lembra o pinho, o alecrim pode ser empregado fresco ou seco, vai bem em assados 
-em geral, especialmente carneiro, cabrito e porco; molho escabeche, sopa de ervilhas, patê de fígado, 
-salada de palmito.
+De sabor forte, aroma acentuado, que lembra o pinho, o alecrim pode ser empregado fresco ou seco, vai bem 
+em assados em geral, especialmente carneiro, cabrito e porco; molho escabeche, sopa de ervilhas, patê de 
+fígado e salada de palmito.
 
 ###Dicas:
 
