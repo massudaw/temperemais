@@ -14,6 +14,6 @@ O solo deve ser bem drenado, leve, fértil, rico em matéria orgânica.
 A planta é tolerante quanto ao pH do solo, mas não cresce bem em solos muito ácidos.
 Irrigue com a frequência necessária para que o solo seja mantido sempre úmido, sem que permaneça encharcado. A falta de água pode induzir a planta a florescer precocemente.
 
-## Temperatura aconselhável para esta planta:
+## Temperatura Ideal:
 
 Temperaturas entre os 8°C e os 22°C. 
