@@ -22,19 +22,19 @@ O alecrim é uma planta que gosta de luz e de um clima seco, não suporta solos 
 
 Nunca manter o alecrim abaixo dos 6°C. 
 
-###Uso: 
+##Uso: 
 
 De sabor forte, aroma acentuado, que lembra o pinho, o alecrim pode ser empregado fresco ou seco, vai bem 
 em assados em geral, especialmente carneiro, cabrito e porco; molho escabeche, sopa de ervilhas, patê de 
 fígado e salada de palmito.
 
-###Dicas:
+##Dicas:
 
 Salpique folhinhas de alecrim sobre o carvão da churrasqueira. Ele dará um sabor especial à carne.
  Amarre ramos de alecrim para pincelar os seus assados.
 
 
-###Curiosidade:
+##Curiosidade:
 
 Além de ser símbolo de fidelidade entre namorados, era usado na Era Medieval para
  purificar os quartos de doentes. Pela reputação de estimular a memória, conta-se que estudantes gregos

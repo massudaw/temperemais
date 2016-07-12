@@ -17,3 +17,18 @@ Irrigue com a frequência necessária para que o solo seja mantido sempre úmido
 ## Temperatura Ideal:
 
 Temperaturas entre os 8°C e os 22°C. 
+
+##Uso: 
+Muito utilizada no combate à má digestão, gases, dor de barriga ou artrite.
+
+##Dicas:
+
+A parte utilizada da erva-doce é o seu fruto seco.
+Chá de erva-doce: Colocar 1 colher de erva-doce em uma xícara e cobrir com água fervente. Deixar esfriar, 
+coar e beber a seguir. De 2 a 3 vezes ao dia após as refeições.
+
+##Curiosidade:
+ A erva-doce serve para tratar dor de barriga, indigestão, inchaço, acidez estomacal, asma, bronquite, espasmos, cólicas, dor de barriga,
+ dor de cabeça, inflamações, tosse, gases, palpitações, inchaço, gripe, resfriado, catarro e coriza. 
+ As propriedades da erva-doce incluem sua ação expectorante, tônica, cicatrizante, calmante, diurética, sudorífica, 
+ galactagoga, antiespasmódica e antidispéptica.
