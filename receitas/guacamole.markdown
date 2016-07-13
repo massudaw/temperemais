@@ -6,7 +6,7 @@ porcao_serve: 4
 ---
 
 
-## Ingredientes:
+##Ingredientes:
 
 - 3 abacates  
 - 1 dente de alho
@@ -17,6 +17,7 @@ porcao_serve: 4
 - suco de 1 limão
 - pimenta a gosto 
 
-## Preparo
+
+##Preparo:
 
 Em um recipiente médio , amasse o abacate, o suco de limão e o sal.  Misture a cebola, coentro, tomates e alho. Adiciona a pimenta a gosto . Refrigere por uma hora para apurar o sabor ou sirva imediatamente.

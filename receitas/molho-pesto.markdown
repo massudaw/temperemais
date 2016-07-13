@@ -6,7 +6,7 @@ porcao_serve: 8
 ---
 
 
-## Ingredientes:
+##Ingredientes:
 
 - 50 gramas de manjericão fresco (folhas apenas)
 - 2 dentes de alho
@@ -15,6 +15,6 @@ porcao_serve: 8
 - 1 colher de sopa de pinoli (cerca de 30 gramas) , pode substituir por outra castanha (castanha de caju ,castanha do pará)
 - 2 colheres de sopa de salsinha (opcional)
 
-## Preparo:
+##Preparo:
 
 Adicione o manjericão, alho, queijo parmesão, óleo de oliva e castanhas no liquidificador. Bata até virar uma passa homogênea. Adicione salsinha se desejar.
