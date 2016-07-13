@@ -26,6 +26,10 @@ O estragão é um tempero típico da culinária francesa e é utilizado para rea
 ingrediente e alimentos. O sabor da folha de estragão é adocicado e ao mesmo tempo levemente picante, 
 lembrando a algumas pessoas, mesmo que brevemente, o cheiro e gosto do funcho.
 
+##Dica:
+
+Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
+
 
 ##Curiosidade:
 

@@ -29,6 +29,8 @@ Além de aromatizante ele também tem ação expectorante, antibacteriana, diges
 Salpique folhinhas de alecrim sobre o carvão da churrasqueira. Ele dará um sabor especial à carne.
  Amarre ramos de alecrim para pincelar os seus assados.
 
+Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
+
 
 ##Curiosidade:
 

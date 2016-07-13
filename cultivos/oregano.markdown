@@ -13,7 +13,6 @@ ou seja só deve ser regado quando o solo estiver muito seco.
 
 ##Temperatura Ideal: 
 
-
 Os orégãos requerem temperaturas acima dos 5°C.
 
 
@@ -27,6 +26,8 @@ pimentão. É a essência das pizzas.
 ##Dicas:
 
 Usando orégano seco ou fresco (em raminhos) tome cuidado com os talos, que têm sabor acentuado.
+
+Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
 
 
 ##Curiosidade:

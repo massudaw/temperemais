@@ -20,7 +20,7 @@ Corte os ramos mais velhos que se tornaram lenhosos. As folhas podem ser colhida
  
 ##Temperatura ideal:
 
- É recomendável manter a temperatura acima dos 10°C.
+É recomendável manter a temperatura acima dos 10°C.
  
  
 ##Uso:

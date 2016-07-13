@@ -38,3 +38,7 @@ diaforética, digestivo, emenagoga, estimulante do crescimento capilar, estomaca
 É indicada para afta, bronquite, catarro, desodorante, diabete, diarréia, estomatite,
  fechar poros dilatados, fixador na confecção de perfumes, gengivite, inflamação de mucosa, problemas 
  gástricos intestinal, reduzir excesso de oleosidade, reumatismo, (coadjuvante) rugas, vômito, tosse. 
+ 
+ ##Dica:
+ 
+ Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.

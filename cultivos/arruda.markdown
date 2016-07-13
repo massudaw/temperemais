@@ -29,3 +29,6 @@ serve para fortalecer os vasos sanguíneos, sendo ótima no tratamento de varize
 As partes utilizadas da arruda são as suas folhas e flores.
 Chá de arruda: Colocar uma xícara de água em uma panela e, quando ferver, apagar o fogo.
  Acrescentar 1 punhado das folhas secas de arruda. Deixe descansar por 30 minutos, coar e beber a seguir.
+ 
+ Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
+ 

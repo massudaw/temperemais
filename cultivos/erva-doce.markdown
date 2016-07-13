@@ -28,6 +28,9 @@ A parte utilizada da erva-doce é o seu fruto seco.
 Chá de erva-doce: Colocar 1 colher de erva-doce em uma xícara e cobrir com água fervente. Deixar esfriar, 
 coar e beber a seguir. De 2 a 3 vezes ao dia após as refeições.
 
+Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
+
+
 ##Curiosidade:
 
  A erva-doce serve para tratar dor de barriga, indigestão, inchaço, acidez estomacal, asma, bronquite, espasmos, cólicas, dor de barriga,

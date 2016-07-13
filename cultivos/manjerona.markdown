@@ -32,6 +32,10 @@ A manjerona é uma planta que cresce melhor em clima ameno ou quente,
  dos instintos sexuais .Usada na inalação, ajuda a eliminar muco e catarro, prevenindo a sinusite.    
  Folhas frescas e cozidas aplicadas com gaze são boas desinflamadoras no caso de pancadas, feridas e tumores.
 
+##Dica:
+ 
+ Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
+ 
  
 ##Curiosidades:
  

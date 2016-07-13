@@ -16,7 +16,7 @@ O manjericão gosta de estar numa posição em que receba muita luz, sem no enta
 
 ##Temperatura ideal:
 
- O manjericão não suporta temperaturas inferiores a 12°C.
+O manjericão não suporta temperaturas inferiores a 12°C.
 
  
 ##Uso:
@@ -25,3 +25,8 @@ O manjericão gosta de estar numa posição em que receba muita luz, sem no enta
  Elas são utilizadas secas ou frescas na preparação de diversos pratos quentes ou frios, e estão intimamente
  relacionadas à gastronomia italiana, onde são matéria prima principal de pestos e molhos. O manjericão 
  combina-se perfeitamente com pratos que levam tomate, azeite, limão, carnes vermelhas, massas e queijos. 
+ 
+ ##Dica:
+ 
+ Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
+ 

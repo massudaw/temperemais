@@ -40,6 +40,9 @@ Em um recipiente, leve a água ao fogo e adicione as folhas. Ao alcançar fervur
  consuma. A dose indicada é de duas a três vezes por dia, de preferência antes das principais
  refeições diárias.
  
+Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
+
+ 
 ##Curiosidade:
  
 O Bálsamo também é muito conhecido por ser uma planta ornamental. 

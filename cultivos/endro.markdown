@@ -40,6 +40,7 @@ Cosmética: clareia a pele, endurece as unhas e perfuma o hálito
 Sementes: conservas de pepino e couve-flor.
 Folhas: ressaltam o sabor de peixes, aves, salada de batatas, molhos, manteigas aromáticas, pães, pastas de ricota e patês.
 
+Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
 
 ##Curiosidades:
 

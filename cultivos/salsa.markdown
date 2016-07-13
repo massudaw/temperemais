@@ -59,6 +59,8 @@ Umas das formas adequadas de consumir a salsa é fresca, pois se for congelada o
 
 Utilize 2 colheradas de salsa fresca em 2 xícaras de água fervendo, deixe repousar um pouco e coa para depois beber. Pode-se tomar 2 vezes ao dia.
 
+Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
+
 
 ##Curiosidade:
 
