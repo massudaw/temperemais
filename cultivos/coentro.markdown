@@ -1,6 +1,6 @@
 ---
 header: Coentro 
-Espécie: Coriandrum sativum
+especie: Coriandrum sativum
 published: 2016-06-21
 disponivel: 10
 ---
@@ -25,8 +25,6 @@ As análises desta planta demonstraram que é fonte das vitaminas A, K e C, e de
 e a elevar o colesterol bom. É fonte de ferro e de magnésio.
 
 ##Dicas:
-
-
 Uma grande qualidade do coentro é que não perde suas propriedades 
 medicinais mesmo quando cozido, podendo também ser consumido fresco, seco, ou por extrato.
 
