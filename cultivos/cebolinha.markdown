@@ -30,3 +30,7 @@ dor de garganta. Cura a acne e a artrite reumatóide, e recentemente ganhou stat
 ##Dicas:
 
 Comer cebolinha todos os dias regula a pressão arterial e combate o estresse.
+ A cebolinha pode ser usada como tempero na preparação de diversos pratos como sopas, molhos, patês,
+ massas, omeletes, carnes, peixes, saladas, ensopados e muitos outros alimentos, ou ainda no preparo
+ de um chá. Quando usada no preparo de alimentos, deve ser adicionada somente ao final de forma a 
+ conservar melhor não apenas seu sabor, mas também seus benefícios.
