@@ -19,7 +19,7 @@ se usa como inseticida, antisséptico e aromatizante. Seu sabor é um tanto amar
 É recomendável manter a temperatura acima dos 10°C.
 
 
- ##Uso:
+##Uso:
  
 No momento da aplicação em certas zonas, se pode sentir um intumescimento ou adormecimento, 
  já que a cânfora tem propriedades analgésicas e, além disso, por ela ser absorvida rapidamente pelos

@@ -5,7 +5,7 @@ disponivel: 10
 ---
 
 
-## Cuidados de Cultivo:
+##Cuidados de Cultivo:
   
 A colheita deve ser moderada, uma vez que a sua folhagem é frágil e enfraquece facilmente, não corte o superior a 1/3 das folhas.
 Ao contrário das restantes ervas aromáticas deve cortar o cebolinha por baixo para uso.
@@ -14,7 +14,19 @@ Use uma tesoura para cortar as folhas do vaso, e na preparação substitua a tes
 Gosta de rega frequente.
  
 
-##Temperatura aconselhável para esta planta:
+##Temperatura ideal:
 
 Suporta temperaturas baixas e altas e flutuações de temperatura, mas nunca inferiores a 5°C e superiores a 25°C.
 
+
+##Uso:
+
+O alto poder nutritivo da cebolinha a torna um dos melhores antibióticos naturais. Rica em flavonóides, 
+também é anti inflamatória, tendo sido usada pelos romanos como um dos remédios mais populares para tratar 
+dor de garganta. Cura a acne e a artrite reumatóide, e recentemente ganhou status de alimento anti câncer,
+ em especial os de próstata e do estômago. Mais utilizada para dar “um toque final” nos alimentos, principalmente por sua cor, a cebolinha, inclusive, combate a salmonela, 
+ bactéria presente em alguns alimentos, que provoca infecção gastrointestinal e até febre tifóide.
+
+##Dicas:
+
+Comer cebolinha todos os dias regula a pressão arterial e combate o estresse.
