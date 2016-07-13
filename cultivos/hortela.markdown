@@ -1,6 +1,6 @@
 ---
 header: Hortelã
-Espécie: Mentha sp
+especie: Mentha sp
 published: 2016-06-21
 disponivel: 10
 ---

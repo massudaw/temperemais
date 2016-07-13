@@ -1,6 +1,6 @@
 ---
 header: Estragão 
-Espécie: Artemisia dracunculus
+especie: Artemisia dracunculus
 published: 2016-06-21
 ---
 
@@ -20,7 +20,7 @@ rebrotando na primavera. Nesta ocasião é importante reduzir as regas.
 Entre 7°C e os 23°C. 
 
 
-#Uso: 
+##Uso: 
 
 O estragão é um tempero típico da culinária francesa e é utilizado para realçar o sabor de certos 
 ingrediente e alimentos. O sabor da folha de estragão é adocicado e ao mesmo tempo levemente picante, 
