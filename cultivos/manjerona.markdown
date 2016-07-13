@@ -33,7 +33,7 @@ A manjerona é uma planta que cresce melhor em clima ameno ou quente,
  Folhas frescas e cozidas aplicadas com gaze são boas desinflamadoras no caso de pancadas, feridas e tumores.
 
  
- ##Curiosidades:
+##Curiosidades:
  
  A manjerona disseminou-se no mundo à partir do Mediterrâneo e esteve sempre envolvida em lendas
  antigas quanto às suas origens. Na mitologia grega, era uma das ervas preferida de Afrodite, 

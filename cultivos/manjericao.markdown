@@ -19,7 +19,7 @@ O manjericão gosta de estar numa posição em que receba muita luz, sem no enta
  O manjericão não suporta temperaturas inferiores a 12°C.
 
  
- ##Uso:
+##Uso:
  
  As folhas do manjericão apresentam sabor e aroma doce e picante característico. 
  Elas são utilizadas secas ou frescas na preparação de diversos pratos quentes ou frios, e estão intimamente

@@ -11,7 +11,7 @@ Devem estar num local protegido e ensolarado.  Esta planta não gosta de muita �
 ou seja só deve ser regado quando o solo estiver muito seco.
 
 
-## Temperatura Ideal: 
+##Temperatura Ideal: 
 
 
 Os orégãos requerem temperaturas acima dos 5°C.
