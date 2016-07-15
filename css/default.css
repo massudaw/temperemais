@@ -14,6 +14,12 @@ div.event-description{
   height: 250px
 }
 
+.figure img {
+  max-height:150px;
+ ,max-width:200px;
+ ,float:right;
+ ,border: solid #efefef 1px;
+}
 .indisponivel {
   z-index:-2;
 	background: 
