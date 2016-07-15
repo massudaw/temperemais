@@ -23,6 +23,9 @@ Suas propriedades medicinais são antisséptica, antiespasmódica, estomáquica,
 Usada como condimento na culinária, bem como em infusões, utilizando as folhas da planta. Possui mentol, substância da classe dos terpenos originalmente extraída do óleo essencial desta espécie.
 Utilizada para dar o sabor de menta de balas e pastas de dente.
 
+Ela reduz o estado febril, auxilia na saúde digestiva, problemas respiratórios e regula os níveis de estresse. Também é usada para tratar náuseas e vômitos, mau hálito, auxilia na perda de peso e reforça o sistema imunológico.
+
+
 
 ##Dica:
 

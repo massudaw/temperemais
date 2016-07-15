@@ -28,6 +28,9 @@ dor de garganta. Cura a acne e a artrite reumatóide, e recentemente ganhou stat
  em especial os de próstata e do estômago. Mais utilizada para dar “um toque final” nos alimentos, principalmente por sua cor, a cebolinha, inclusive, combate a salmonela, 
  bactéria presente em alguns alimentos, que provoca infecção gastrointestinal e até febre tifóide.
 
+É considerada como um dos melhores antibióticos naturais. Rica em flavonóides, possui ação anti inflamatória, cura a acne e a artrite reumatoide. Ela também, combate ao câncer de próstata e do estômago, regula a pressão arterial, combate ao estresse e possui propriedades antibacterianas.
+ 
+ 
 ##Dicas:
 
 Comer cebolinha todos os dias regula a pressão arterial e combate o estresse.

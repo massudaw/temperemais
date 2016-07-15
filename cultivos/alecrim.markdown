@@ -23,6 +23,7 @@ em assados em geral, especialmente carneiro, cabrito e porco. Em batatas assadas
 
 Além de aromatizante ele também tem ação expectorante, antibacteriana, digestiva, diurética, reumatismal, anti-séptica e adstringente.
 
+Previne contra a incidência de câncer, melhora a memória, alivia enxaqueca e outras dores como artrite, dores musculares e articulares, fortalece o sistema imunológico, melhora a circulação, é desintoxicante, combate o envelhecimento e problemas respiratórios.
 
 ##Dicas:
 

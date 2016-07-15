@@ -30,6 +30,9 @@ em recheios de porco ou aves e também em molhos. Na cozinha francesa, a salva �
  carne branca e em sopas de vegetais. Os alemães usam-na frequentemente em pratos de salsichas. 
 É também de uso comum na cozinha italiana. Nos Balcãs e no Médio Oriente, é usada em assados de borrego.
 
+a sálvia é eficaz ainda para combater o envelhecimento dos cabelos e livrar-se das caspas, pode ser usada para tratar a gengivite, também é usada para alivia cefaleias, cólicas, flatulências e desconforto intestinal, além de aliviar coceiras derivadas de picadas de insetos.
+
+
 A sálvia tem propriedades medicinais, aromática, anticaspa, antiinflamatória, antioxidante, antiperspirante, 
 anti-reumática, anti-séptico bucal, aromática, balsâmica, cicatrizante de mucosas, desodorante, 
 diaforética, digestivo, emenagoga, estimulante do crescimento capilar, estomacal, eupéptica, germicida,

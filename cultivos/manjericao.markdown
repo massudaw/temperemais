@@ -21,12 +21,14 @@ O manjericão não suporta temperaturas inferiores a 12°C.
  
 ##Uso:
  
+Fontes de vitaminas do complexo A, B, C, E e K. também pode ser usado como fonte de minerais como zinco, cálcio, manganês, magnésio, ferro e potássio. Possui propriedades antibacterianas, traz benefícios para o coração e previne resfriados. Faz bem a memória, a pele e previne alguns tipos de câncer.
+ 
  As folhas do manjericão apresentam sabor e aroma doce e picante característico. 
  Elas são utilizadas secas ou frescas na preparação de diversos pratos quentes ou frios, e estão intimamente
  relacionadas à gastronomia italiana, onde são matéria prima principal de pestos e molhos. O manjericão 
  combina-se perfeitamente com pratos que levam tomate, azeite, limão, carnes vermelhas, massas e queijos. 
  
- ##Dica:
+ ##Dicas:
  
  Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento médico.
  

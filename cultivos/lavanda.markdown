@@ -17,6 +17,7 @@ Esta planta é sensível ao excesso de água. O solo deve permanecer sempre leve
 
 Retire as plantas invasoras que estiverem concorrendo por recursos e nutrientes.
 Corte os ramos mais velhos que se tornaram lenhosos. As folhas podem ser colhidas quando necessário, mas são menos apreciadas do que as flores. 
+
  
 ##Temperatura ideal:
 

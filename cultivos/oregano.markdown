@@ -22,6 +22,7 @@ Realça qualquer prato com tomates, ao natural ou em molhos, é apreciado com ov
 com azeite de oliva, queijos e cebolas, saladas de frutos do mar, azeitonas, feijão branco, berinjela, 
 pimentão. É a essência das pizzas.
 
+Desintoxica o corpo, faz bem para os ossos e coração, previne a gripe, possui ação antibacteriana, é antioxidante e atua na diminuição dos incômodos causados pela menstruação.
 
 ##Dicas:
 
