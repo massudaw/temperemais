@@ -13,9 +13,9 @@ A primeira preocupação na hora de começar o jardim saboroso, é a quantidade 
 
 As hortaliças precisam receber, no mínimo, cinco horas de luz solar por dia. Por isso, o ideal é instalar a horta na varanda ou junto à janela. Outra preocupação é quanto ao vento, com exceção do tomilho, lavanda, capim-limão e alecrim, a maioria dos temperos é pouco tolerante às ventanias.
 
-###Lembre-se de regar sua horta todas as manhãs para deixar o solo sempre umedecido, mas não encharcado.
+###Regar seus temperos todos os dias, sempre no início da manhã ou final da tarde, períodos que o sol não está forte.
 
-Regar seus temperos todos os dias, sempre no início da manhã ou final da tarde, períodos que o sol não está forte.
+
 Motivos para você ter uma horta de temperos em casa não faltam, as ervas aromáticas são tudo de bom, dão um novo sabor aos alimentos e também servem como medicamentos naturais, e você pode criar uma horta mesmo morando em apartamento.
 
 
