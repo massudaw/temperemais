@@ -11,7 +11,7 @@ Um jardim de temperos além de útil decora o ambiente e deixa um aroma agradáv
 Um ambiente com tempero especial!
 A primeira preocupação na hora de começar o jardim saboroso, é a quantidade de sol que as plantas irão receber.
 
-As hortaliças precisam receber, no mínimo, cinco horas de luz solar por dia. Por isso, o ideal é instalar a horta na varanda ou junto à janela. Outra preocupação é quanto ao vento, com exceção do tomilho, lavanda, capim-limão e alecrim, a maioria dos temperos é pouco tolerante às ventanias.
+As ervas aromáticas precisam receber, no mínimo, de três a cinco horas de luz solar por dia. Por isso, o ideal é instalar a horta na varanda ou junto à janela. Outra preocupação é quanto ao vento, com exceção do tomilho, lavanda, capim-limão e alecrim, a maioria dos temperos é pouco tolerante às ventanias.
 
 ###Regar seus temperos todos os dias, sempre no início da manhã ou final da tarde, períodos que o sol não está forte.
 
