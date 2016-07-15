@@ -1,5 +1,5 @@
 ---
-header:Cultivo de Temperos
+header: Cultivo de Temperos
 published: 2016-06-21
 ---
 
