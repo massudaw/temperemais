@@ -26,6 +26,10 @@ Temperaturas entre os 8°C e os 22°C.
 
 Endro, aneto ou dill são os nomes de uma uma especiaria com folhas de aroma e sabor delicado e fresco, tem um aspecto semelhante ao do funcho ou erva-doce mas o sabor é muito diferente, e suas sementes são fortemente aromáticas e picantes.
 
+As folhinhas frescas são ótimas para condimentar queijos, ricota, molho branco, carnes grelhadas, peixes como o salmão e o arenque, saladas, ovos, cremes tipo maionese ou manteiga ou patês, arroz ou massa e sopas. Seu aroma e sabor são melhor aproveitados, quando esta erva é acrescentada ao final do cozimento.
+ 
+As sementes usam-se em pickles, conservas, vinagres aromáticos, bolos, pães, carnes e legumes cozidos, principalmente repolho, beterraba e couve-flor. Também faz parte dos ingredientes do molho curry.
+
 
 Natural de regiões da Europa, norte da África e Ásia, o endro é um condimento muito popular na Europa Oriental e do Norte, sendo indispensável na culinária de russos e escandinavos. 
 
@@ -62,4 +66,5 @@ Utilizado e apreciado pelos homens desde tempos primordiais, o endro foi introdu
 Também, foi usado na Idade Média para enfrentar as bruxarias. Os hebreus costumavam pagar o dízimo, sua obrigação religiosa, com o endro; os armênios (que o chamavam de "erva-de-deus") também o usavam com muita freqüência para condimentar seus pratos, sendo característico de sua culinária.
 
 Além de ser apreciado como condimento, o endro também é usado na perfumaria, para aromatizar sabonetes e, na cosmética, tem a propriedade de clarear a pele, fortalecer as unhas e perfumar o hálito. Saches com a flor, colocados em armários ou gavetas, espantam as traças.
+
 
