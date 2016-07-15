@@ -4,6 +4,9 @@ header: Sobre
  
 A TEMPERE + fornece mudas de ervas aromáticas em vasos, tem o objetivo geral de facilitar o cultivo procurando atender às nossas necessidades na alimentação do dia a dia, de forma prática e produtiva, como nossas avós tinham as hortas caseiras. A TEMPERE + estimula a cultura de ter hortas em casa, este conceito aliado ao olhar sustentável para as atividades ecologicamente corretas, buscam diminuir os obstáculos e incentivam a educação ambiental, recuperando uma tradição de muitos anos que se perdeu, pelo acomodado costume de comprar tudo pronto no supermercado, mas agora voltamos o olhar com essa perspectiva da alimentação saudável e medidas sustentáveis. A TEMPERE + traz benefícios na qualidade de vida, como a economia na renda da família, e aprendizado para as futuras gerações. 
 
+![](/images/sobre.jpg)
+
+
 A TEMPERE + tem 4 objetivos principais:
 
 - Ação de cultivar 
