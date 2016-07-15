@@ -31,7 +31,7 @@ Se usada de forma natural em saladas e sem tempero, ajuda em inflamações gást
  
 ##Dicas:
 
-Suco: 10 folhas batidas no liquidificador com 1,5 copos de água. Tomar meio copo antes do café da manhã.
+Suco: 10 folhas batidas no liquidificador com 1,5l copos de água. Tomar meio copo antes do café da manhã.
 
 Chá de bálsamo: a proporção de 500 ml de água para 5 folhas frescas da planta. 
 Em um recipiente, leve a água ao fogo e adicione as folhas. Ao alcançar fervura, deixe a mistura no
@@ -46,3 +46,5 @@ Mulheres grávidas devem evitar, só devem empregar a planta com aconselhamento 
 ##Curiosidade:
  
 O Bálsamo também é muito conhecido por ser uma planta ornamental. 
+
+Nativa da África do Sul e da Ásia, a planta também é conhecida como pau-de-bálsamo, balso, cabraiba, óleo vermelho, cabureiba e pau vermelho. A planta teve suas aplicações citadas inclusive na bíblia em Gn 43,11: “…coloquem em suas bagagens os melhores produtos do país e levem como presente para aquele homem: um pouco de bálsamo, um pouco de mel, especiarias, resina, terebinto e amêndoas”. Além disso, em outro trecho, em Jr 8,22: “Será que não existe bálsamo em Galaad? Não há médico por aí? Por que não cicatriza a ferida da capital do meu povo?”.
