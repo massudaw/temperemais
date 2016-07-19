@@ -25,6 +25,7 @@ Entre 7°C e os 23°C.
 O estragão é um tempero típico da culinária francesa e é utilizado para realçar o sabor de certos 
 ingrediente e alimentos. O sabor da folha de estragão é adocicado e ao mesmo tempo levemente picante, 
 lembrando a algumas pessoas, mesmo que brevemente, o cheiro e gosto do funcho.
+Esta erva é muito utilizada para fazer o famoso molho Béarnaise e que combina com frango, ovos e tomates. 
 
 ##Dica:
 
