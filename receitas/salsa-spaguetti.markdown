@@ -22,8 +22,9 @@ porcao_serve: 2
 
 ##Preparo:
 
-1- Cozinhe o macarrão em agua fervente por 8 a 10 minutos.
-2- Corte os tomates  em pequenos pedaços, prepare o molho em uma frigideira larga e rasa , adicione os tomates e um pouco de sal reduzindo até amolecer os tomates e secar parte da agua.
-3- Corte as folhas de manjericão, as azeitonas , o alho em pequenos pedaços. Adicione no molho com fogo desligado . Coloque também o vinagre, a pimenta do reino o azeite e misture bem. Ligue o fogo novamente e vá adicionando um pouco de água do macarrão até  o molho ficar na consistência desejada. Ao final adicione a salsa picada.
-3- Retire o macarrão, misture com o molho, adicione o queijo ralado e  decore com algumas folhas de manjericão.
+
+- Cozinhe o macarrão em agua fervente por 8 a 10 minutos.
+- Corte os tomates  em pequenos pedaços, prepare o molho em uma frigideira larga e rasa , adicione os tomates e um pouco de sal reduzindo até amolecer os tomates e secar parte da agua.
+- Corte as folhas de manjericão, as azeitonas , o alho em pequenos pedaços. Adicione no molho com fogo desligado . Coloque também o vinagre, a pimenta do reino o azeite e misture bem. Ligue o fogo novamente e vá adicionando um pouco de água do macarrão até  o molho ficar na consistência desejada. Ao final adicione a salsa picada.
+- Retire o macarrão, misture com o molho, adicione o queijo ralado e  decore com algumas folhas de manjericão.
 
